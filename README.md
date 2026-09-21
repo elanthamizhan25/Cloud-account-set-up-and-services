@@ -1,6 +1,6 @@
 # EX NO:01 Cloud-account-set-up-and-services
-### Name : HARSHITHA V
-### Reg no: 212223230074
+### Name : ELANTHAMIZHAN R
+### Reg no: 212224080016
 ## Aim:
 To create an cloud account in AWS and to explore all of its services.
 
